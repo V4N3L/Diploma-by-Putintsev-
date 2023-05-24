@@ -1,0 +1,156 @@
+.u-section-1 .u-sheet-1 {
+  min-height: 604px;
+}
+
+.u-section-1 .u-text-1 {
+  margin: 15px 1px 0;
+}
+
+.u-section-1 .u-text-2 {
+  width: 74px;
+  margin: 15px auto 0;
+}
+
+.u-section-1 .u-icon-1 {
+  font-size: 1.1112em;
+  vertical-align: 0px;
+}
+
+.u-section-1 .u-text-3 {
+  margin: -31px 78px 0 894px;
+}
+
+.u-section-1 .u-text-4 {
+  margin: -30px 893px 0 78px;
+}
+
+.u-section-1 .u-text-5 {
+  margin: 24px auto 0;
+}
+
+.u-section-1 .u-gallery-1 {
+  height: 246px;
+  width: 438px;
+  margin: 15px auto 0;
+}
+
+.u-section-1 .u-carousel-indicators-1 {
+  position: absolute;
+  bottom: 10px;
+  width: auto;
+  height: auto;
+}
+
+.u-section-1 .u-carousel-item-1 {
+  margin-right: 0;
+}
+
+.u-section-1 .u-over-slide-1 {
+  min-height: 100px;
+  padding: 10px;
+}
+
+.u-section-1 .u-carousel-item-2 {
+  margin-right: 0;
+}
+
+.u-section-1 .u-over-slide-2 {
+  min-height: 100px;
+  padding: 10px;
+}
+
+.u-section-1 .u-carousel-item-3 {
+  margin-right: 0;
+}
+
+.u-section-1 .u-over-slide-3 {
+  min-height: 100px;
+  padding: 10px;
+}
+
+.u-section-1 .u-carousel-control-1 {
+  position: absolute;
+  left: 10px;
+  width: 40px;
+  height: 40px;
+}
+
+.u-section-1 .u-carousel-control-2 {
+  position: absolute;
+  right: 10px;
+  width: 40px;
+  height: 40px;
+}
+
+.u-section-1 .u-btn-1 {
+  border-style: solid;
+  letter-spacing: 0px;
+  font-weight: 700;
+  text-transform: uppercase;
+  margin: 30px auto;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-text-1 {
+    margin-left: 0;
+    margin-right: 0;
+  }
+
+  .u-section-1 .u-text-3 {
+    margin-right: 0;
+    margin-left: 772px;
+  }
+
+  .u-section-1 .u-text-4 {
+    margin-right: 771px;
+    margin-left: 0;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-text-3 {
+    margin-left: 552px;
+  }
+
+  .u-section-1 .u-text-4 {
+    margin-right: 551px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-text-3 {
+    margin-left: 372px;
+  }
+
+  .u-section-1 .u-text-4 {
+    margin-right: 371px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 673px;
+  }
+
+  .u-section-1 .u-text-3 {
+    width: 168px;
+    margin-top: 1px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .u-section-1 .u-text-4 {
+    width: 169px;
+    margin-top: 0;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .u-section-1 .u-text-5 {
+    margin-top: 62px;
+  }
+
+  .u-section-1 .u-gallery-1 {
+    width: 340px;
+  }
+}
